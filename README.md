@@ -1,1 +1,1 @@
-This project can be executed using QT Creator Playform.
+This project can be executed using QT Creator Platform.
